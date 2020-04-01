@@ -1,5 +1,4 @@
 first line from local
-<<<<<<< HEAD
 edit from local
 edit in remote 
 
