@@ -1,3 +1,6 @@
 first line from local
+edit from local
+edit in remot
+
 edit in Second_b for rebase
  
